@@ -1,0 +1,5 @@
+name:thippeswamy k s
+age:17
+gender:male
+qulification: SSLC pass,diplome in CSE
+hobbies:playing
